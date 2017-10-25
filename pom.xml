@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.lathspell.test</groupId>
-    <artifactId>kotlin-test-kotlintest</artifactId>
+    <artifactId>kotlin_test_kotlintest</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
